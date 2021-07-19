@@ -1,1 +1,4 @@
 Example file
+
+This line should have a markdown comment
+This line should have a markdown code snippet
